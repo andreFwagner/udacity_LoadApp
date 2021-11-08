@@ -1,8 +1,11 @@
 # LoadApp
 
 App downloads repositories from Github and sends a Notification once finished 
+
 with custom animated Button and MotionLayout 
+
 built as part of the udacity nanodegree Android Kotlin Developer
+
 
 
 ## Screenshots
@@ -11,8 +14,10 @@ built as part of the udacity nanodegree Android Kotlin Developer
 
 
 
+
 ## Report Issues
 Notice any issues with a repository? Please file a GitHub issue in the repository.
+
 
 
 
